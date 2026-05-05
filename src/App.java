@@ -4,6 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
          // condicional multiple: evaluar variable opcion con switch
+         //test github
          int opcion;
          do {
              System.out.println(" \n****************************************************************");
